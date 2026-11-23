@@ -4,7 +4,7 @@
 
 **Engenharia de Software • Desenvolvimento Web & PWA • IA Aplicada**
 
-Graduando em Engenharia de Software na **ULBRA**, Graduando em Engenharia Física na **UFOPA** e Formado em Ciência e Tecnologia pela **UFOPA** (Santarém, PA), bolsista e monitor no **PET-IEG**. Desenvolvo aplicações web responsivas, arquiteturas *offline-first* e soluções de Inteligência Artificial voltadas para educação, inclusão digital e acessibilidade — unindo engenharia de backend a interfaces limpas e funcionais.
+Graduando em Engenharia de Software na **ULBRA**, Graduando em Engenharia Física na **UFOPA** e Formado em Ciência e Tecnologia pela **UFOPA** (Santarém, PA), bolsista e monitor no **PET-IEG**. Desenvolvo aplicações web responsivas, arquiteturas *offline-first* e soluções de Inteligência Artificial voltadas para educação, inclusão digital e acessibilidade, unindo engenharia de backend a interfaces limpas e funcionais.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
 [![Portfolio](https://img.shields.io/badge/Portfólio_&_Demos-0D1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://breno-max-lab.github.io)
